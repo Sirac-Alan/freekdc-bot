@@ -1,0 +1,21 @@
+{
+  "name": "FreeK DC Bot",
+  "version": "0.0.1",
+  "description": "bu bot yalnız bu servere ozeldir",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Sirac",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.1",
+    "cleverbot-node": "^0.3.11",
+    "discord.js": "^11.3.0",
+    "eval": "^0.1.2",
+    "moment": "^2.20.1",
+    "ms": "^2.1.1",
+    "opusscript": "0.0.6",
+    "ytdl-core": "^0.20.1"
+  }
+}
